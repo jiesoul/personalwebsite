@@ -1,1 +1,16 @@
-
+dev-resources/
+node_modules/
+target/
+yarn.lock
+package-lock.json
+.shadow-cljs/
+prod-resources/
+.clj-kondo/
+.cpcache/
+.lsp/
+tmp/
+personal/
+.calva/
+.nrepl-port
+logs/
+scratch/
